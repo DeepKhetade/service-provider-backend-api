@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3169
+  },
+  "dbUrl": "mongodb://127.0.0.1:27017/serviceProvider",
+  "#dbUrl": "mongodb+srv://serviceProvider:serviceProvider@2023@cluster0.bmih1oh.mongodb.net/",
+  "secretKey": "serviceProvider",
+  "staticFilesUrl": "serviceProvider"
+}
